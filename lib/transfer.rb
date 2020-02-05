@@ -1,3 +1,7 @@
 class Transfer
-  attr_accessor
+  
+  def initilize
+    
+  end
+  
 end
